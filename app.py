@@ -12,4 +12,6 @@ Menu_WS = {
     },
 }
 
-print(Menu_WS["Bottles Beer"]['Chouffe'])
+for category in Menu_WS
+
+
